@@ -12,7 +12,11 @@
 }
 .box_1 {
 }
+._形状 {
+}
 ._图片_ {
+}
+.placeholder {
 }
 ._一级标题 {
   font-family:'ArialMT', 'Arial', sans-serif;
@@ -79,6 +83,9 @@
 .primary_button {
   color:#FFFFFF;
 }
+.link_button {
+  color:#169BD5;
+}
 .button {
 }
 .checkbox {
@@ -90,5 +97,7 @@
   text-align:left;
 }
 ._线段 {
+}
+.shape {
 }
 textarea, select, input, button { outline: none; }
